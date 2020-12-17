@@ -40,5 +40,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://api.magumzo.com"
+  "proxy": "http://localhost:500"
 }
